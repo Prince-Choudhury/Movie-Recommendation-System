@@ -35,6 +35,6 @@ The dataset used in this project is the **TMDb Movie Metadata Dataset** availabl
 
 You can watch the demo of the Movie Recommender System in action below:
 
-[Watch the Demo Video](./demo-video.mp4)
+[Watch the Demo Video](./demo_video.mp4)
 
 ---
