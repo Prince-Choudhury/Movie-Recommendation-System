@@ -29,4 +29,12 @@ The dataset used in this project is the **TMDb Movie Metadata Dataset** availabl
 - **pickle**: For loading pre-trained movie data and similarity matrices.
 - **Requests**: To fetch movie posters from the **TMDb API**.
 
- 
+ ---
+
+## Demo Video
+
+You can watch the demo of the Movie Recommender System in action below:
+
+[Watch the Demo Video](./demo-video.mp4)
+
+---
